@@ -1,0 +1,14 @@
+{
+  "name": "hooks",
+  "version": "0.0.1",
+  "description": "Node.js",
+  "author": "yepstepz",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "0.19.2",
+    "express": "4.16.1"
+  }
+}
